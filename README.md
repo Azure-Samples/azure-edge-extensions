@@ -29,6 +29,10 @@ Some examples are:
 * `azure-edge-extensions-polyglotnotebooks-aio` - a Polyglot Notebook for Azure IoT Operations
 * `azure-edge-extensions-devcontainer-aksee` - A Dev Container with AKS Edge Essentials preinstalled
 
+To see all the Azure Edge Extensions, just do a [GitHub search for `azure-edge-extensions`](https://github.com/search?q=%22azure-edge-extensions%22&type=repositories) 
+
+# Contributing Tools
+
 If you want to contribute your own tool, just make a repository following the design philosphy and naming convention above.
 
 That's it. 
