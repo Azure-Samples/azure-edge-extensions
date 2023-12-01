@@ -1,57 +1,36 @@
-# Project Name
+# Azure Edge Extensions
 
-(short, 1-3 sentenced, description of the project)
+Azure Edge Extensions is a suite of software solutions designed to help you take full advantage of the power of Azure's
+edge computing platforms. From notebook playgrounds, to CI/CD, to model transpilers, to production ready IaC, Azure
+Edge Extensions are all built with the goal of composition in mind. Fork and compose the components you need and see
+your solutions come to life.
 
-## Features
+## Design Philosophy
 
-This project framework provides the following features:
+Azure Edge Extensions are all built with the same basic principles echoing the Unix Philosophy:
 
-* Feature 1
-* Feature 2
-* ...
+* Solve one, narrow business problem really well
+* Code for contributions, not machine optimization
+* Use well defined interfaces that enable composition
+* Create a reaction for every action
+* Output is always human readable and machine parsable
 
 ## Getting Started
 
-### Prerequisites
+All Azure Edge Extensions follow a common naming convention and use repository tags so you know what technologies are in
+the box. The two primary template formats are:
 
-(ideally very short, if any)
+* `azure-edge-extensions-{product}-{process}-{technology}`
+* `azure-edge-extensions-{technology}-{platform}`
 
-- OS
-- Library version
-- ...
+Some examples are:
 
-### Installation
+* `azure-edge-extensions-aio-iac-terraform` - Azure IoT Operations Infrastructure as Code written in Terraform
+* `azure-edge-extensions-polyglotnotebooks-aio` - a Polyglot Notebook for Azure IoT Operations
+* `azure-edge-extensions-devcontainer-aksee` - A Dev Container with AKS Edge Essentials preinstalled
 
-(ideally very short)
+If you want to contribute your own tool, just make a repository following the design philosphy and naming convention above.
 
-- npm install [package name]
-- mvn install
-- ...
+That's it. 
 
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [repository name]
-3. ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
-
-## Resources
-
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+If you need help with a name for your tool or have questions about the Azure Edge Extensions project, just file an [issue](https://github.com/Azure-Samples/azure-edge-extensions/issues) and we'll come give a hand! 
