@@ -2,12 +2,12 @@
 
 Azure Edge Extensions is a suite of software solutions designed to help you take full advantage of the power of Azure's
 edge computing platforms. From notebook playgrounds, to CI/CD, to model transpilers, to production ready IaC, Azure
-Edge Extensions are all built with the goal of composition in mind. Fork and compose the components you need and see
+Edge Extensions are all built with the goal of composition in mind. Fork and integrate the elements you need, and see
 your solutions come to life.
 
 ## Design Philosophy
 
-Azure Edge Extensions are all built with the same basic principles echoing the Unix Philosophy:
+Azure Edge Extensions are all built with the same basic principles, echoing the Unix Philosophy:
 
 * Solve one, narrow business problem really well
 * Code for contributions, not machine optimization
