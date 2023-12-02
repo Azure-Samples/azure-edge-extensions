@@ -30,8 +30,8 @@ url: "https://azure-samples.github.io/azure-edge-extensions" # the base hostname
 
 
 # Build settings
-theme: minima
-#remote_theme: pmarsceill/just-the-docs
+#theme: minima
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
