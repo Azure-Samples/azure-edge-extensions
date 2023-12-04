@@ -5,6 +5,8 @@ edge computing platforms. From notebook playgrounds, to CI/CD, to model transpil
 Edge Extensions are all built with the goal of composition in mind. Fork and integrate the elements you need, and see
 your solutions come to life.
 
+[Azure Edge Extensions documentation](https://azure-samples.github.io/azure-edge-extensions/)
+
 ## Design Philosophy
 
 Azure Edge Extensions are all built with the same basic principles, echoing the Unix Philosophy:
@@ -29,11 +31,16 @@ Some examples are:
 * `azure-edge-extensions-polyglotnotebooks-aio` - a Polyglot Notebook for Azure IoT Operations
 * `azure-edge-extensions-devcontainer-aksee` - A Dev Container with AKS Edge Essentials preinstalled
 
-To see all the available Azure Edge Extensions, just do a [GitHub search for 'azure-edge-extensions'](https://github.com/search?q=azure-edge-extensions+in%3Aname&type=Repositories&org%3AAzureSamples).
+To see all the available Azure Edge Extensions, check out this [GitHub search for 'azure-edge-extensions'](https://github.com/search?q=azure-edge-extensions+in%3Aname&type=Repositories&org%3AAzureSamples).
 
-# Contributing Tools
+# Contributing Tools to Azure Edge Extensions
 
-If you want to contribute your own tool, just make a repository following the design philosophy and naming convention above.
+Contributing your own tool to the collection is easy: 
+
+* File a [tool submission]() in this repository
+* Work with us on naming in the comments of the tool submission
+* create your repository
+* add 
 
 That's it. 
 
