@@ -25,7 +25,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   edge computing platforms. From notebook playgrounds, to CI/CD, to model transpilers, to production ready IaC, Azure
   Edge Extensions are all built with the goal of composition in mind. Fork and integrate the elements you need, and see
   your solutions come to life.
-baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://azure-samples.github.io/azure-edge-extensions" # the base hostname & protocol for your site, e.g. http://example.com
 
 
@@ -34,6 +33,9 @@ url: "https://azure-samples.github.io/azure-edge-extensions" # the base hostname
 theme: just-the-docs
 plugins:
   - jekyll-feed
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 # Exclude from processing.
 # The following items will not be processed, by default.

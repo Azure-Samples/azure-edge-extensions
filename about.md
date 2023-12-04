@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Azure Edge Extensions
+title: About
 permalink: /about/
 ---
 
