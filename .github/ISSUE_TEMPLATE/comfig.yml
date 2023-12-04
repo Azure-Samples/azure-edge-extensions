@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Frequently Asked Questions
+    url: https://azure-samples.github.io/azure-edge-extensions/faq
+    about: Please check if your question isn't mentioned here.
