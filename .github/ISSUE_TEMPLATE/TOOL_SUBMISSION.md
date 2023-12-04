@@ -1,33 +1,20 @@
-<!--
-IF SUFFICIENT INFORMATION IS NOT PROVIDED VIA THE FOLLOWING TEMPLATE THE ISSUE MIGHT BE CLOSED WITHOUT FURTHER CONSIDERATION OR INVESTIGATION
--->
-> Please provide us with the following information:
-> ---------------------------------------------------------------
+---
+name: Tool Submission
+about: Suggest an Azure Edge Extension to be added to this project
+title: ''
+labels: ''
+assignees: ''
 
-### This issue is for a: (mark with an `x`)
-```
-- [ ] bug report -> please search issues before submitting
-- [ ] feature request
-- [ ] documentation issue or request
-- [ ] regression (a behavior that used to work and stopped in a new release)
-```
+---
 
-### Minimal steps to reproduce
->
+**What problem does your tool solve? Please describe.**
+A clear and concise description of what narrowly defined business problem the tool solves. Ex. "This tool helps accelerate [...] when building edge solutions with Azure"
 
-### Any log messages given by the failure
->
+**Describe alternatives you've considered in solving the business problem**
+A clear and concise description of any alternative solutions or features you've considered.
 
-### Expected/desired behavior
->
+**Describe ownership and maintenance of the tool**
+A clear and concise description of who built and who will maintain the tool.
 
-### OS and Version?
-> Windows 7, 8 or 10. Linux (which distribution). macOS (Yosemite? El Capitan? Sierra?)
-
-### Versions
->
-
-### Mention any other details that might be useful
-
-> ---------------------------------------------------------------
-> Thanks! We'll be in touch soon.
+**Additional context**
+Add any other context about the tool submission request here.
