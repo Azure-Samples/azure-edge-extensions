@@ -40,7 +40,7 @@ To see all the available Azure Edge Extensions, just do a [GitHub search for 'az
 
 Contributing your own tool to the collection is easy:
 
-* File a [tool submission]() in this repository
+* File a [tool submission](https://github.com/Azure-Samples/azure-edge-extensions/issues/new?template=TOOL_SUBMISSION.md) in this repository
 * Work with us on repository naming in the comments of the tool submission
 * Create your repository
 * We'll add your tool to the Azure Edge Extensions index

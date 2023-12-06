@@ -1,5 +1,5 @@
 ---
-name: Issue Template
+name: Bug or Issue
 about: Submit a bug or issue
 title: ''
 labels: ''

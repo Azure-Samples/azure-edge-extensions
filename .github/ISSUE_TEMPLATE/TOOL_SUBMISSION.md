@@ -1,5 +1,5 @@
 ---
-name: Tool Submission
+name: Tool submission
 about: Suggest an Azure Edge Extension to be added to this project
 title: ''
 labels: ''
