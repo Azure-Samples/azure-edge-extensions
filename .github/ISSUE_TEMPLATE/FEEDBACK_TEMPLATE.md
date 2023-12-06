@@ -1,6 +1,6 @@
 ---
 name: Feedback
-about: Submit a bug or issue
+about: Share your feedback
 title: ''
 labels: ''
 assignees: ''
