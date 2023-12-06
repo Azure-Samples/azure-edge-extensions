@@ -5,7 +5,7 @@ title: Home
 
 # Azure Edge Extensions
 
-Azure Edge Extensions is a suite of software solutions designed to help you take full advantage of the power of Azure's
+Azure Edge Extensions is a suite of software tools designed to help you take full advantage of the power of Azure's
 edge computing platforms. From notebook playgrounds, to CI/CD, to model transpilers, to production ready IaC, Azure
 Edge Extensions are all built with the goal of composition in mind. Fork and integrate the elements you need, and see
 your solutions come to life.
@@ -36,10 +36,15 @@ Some examples are:
 
 To see all the available Azure Edge Extensions, just do a [GitHub search for 'azure-edge-extensions'](https://github.com/search?q=azure-edge-extensions+in%3Aname&type=Repositories&org%3AAzureSamples).
 
-# Contributing Tools
+# Contributing Tools to Azure Edge Extensions
 
-If you want to contribute your own tool, just make a repository following the design philosophy and naming convention above.
+Contributing your own tool to the collection is easy:
 
-That's it. 
+* File a [tool submission]() in this repository
+* Work with us on repository naming in the comments of the tool submission
+* Create your repository
+* We'll add your tool to the Azure Edge Extensions index
 
-If you need help with a name for your tool or have questions about the Azure Edge Extensions project, just file an [issue](https://github.com/Azure-Samples/azure-edge-extensions/issues) and we'll come give a hand! 
+That's it.
+
+If you need help, have feedback or questions about the Azure Edge Extensions project, just file an [issue](https://github.com/Azure-Samples/azure-edge-extensions/issues), we'd love to hear from you! 

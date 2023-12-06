@@ -1,46 +1,27 @@
 ---
 layout: page
-title: About
+title: About the Azure Edge Extensions Project
 permalink: /about/
 ---
 
-# Azure Edge Extensions
+# About the Azure Edge Extensions
 
-Azure Edge Extensions is a suite of software solutions designed to help you take full advantage of the power of Azure's
+Azure Edge Extensions is a suite of software tools designed to help you take full advantage of the power of Azure's
 edge computing platforms. From notebook playgrounds, to CI/CD, to model transpilers, to production ready IaC, Azure
 Edge Extensions are all built with the goal of composition in mind. Fork and integrate the elements you need, and see
 your solutions come to life.
 
-## Design Philosophy
+## Project Goals
 
-Azure Edge Extensions are all built with the same basic principles, echoing the Unix Philosophy:
+The Azure Edge Extensions Project aims to be a highly curated list of small, composable tools that can accelerate edge
+solution development. The tools curated by this project are semi-ephemeral, meaning that they will only remain on the
+index as long as there is community interest in the tool. When interests subside, tools will be archived for a period of
+6 months before being full retired. This lifecycle approach will allow the index to keep pace with the ever increasing
+pace of innovation in edge computing, and stay in step with Azure edge platform evolution. 
 
-* Solve one, narrow business problem really well
-* Code for contributions, not machine optimization
-* Use well defined interfaces that enable composition
-* Create a reaction for every action
-* Output is always human readable and machine parsable
+## The Team
 
-## Getting Started
-
-All Azure Edge Extensions follow a common naming convention and use repository tags so you know what technologies are in
-the box. The two primary template formats are:
-
-* `azure-edge-extensions-{product}-{process}-{technology}`
-* `azure-edge-extensions-{technology}-{platform}`
-
-Some examples are:
-
-* `azure-edge-extensions-aio-iac-terraform` - Azure IoT Operations Infrastructure as Code written in Terraform
-* `azure-edge-extensions-polyglotnotebooks-aio` - a Polyglot Notebook for Azure IoT Operations
-* `azure-edge-extensions-devcontainer-aksee` - A Dev Container with AKS Edge Essentials preinstalled
-
-To see all the available Azure Edge Extensions, just do a [GitHub search for 'azure-edge-extensions'](https://github.com/search?q=azure-edge-extensions+in%3Aname&type=Repositories&org%3AAzureSamples).
-
-# Contributing Tools
-
-If you want to contribute your own tool, just make a repository following the design philosophy and naming convention above.
-
-That's it. 
-
-If you need help with a name for your tool or have questions about the Azure Edge Extensions project, just file an [issue](https://github.com/Azure-Samples/azure-edge-extensions/issues) and we'll come give a hand! 
+The Azure Edge Extensions team is staffed by Microsoft customer facing software engineers. Day in and day out we help
+Microsoft customers build high scale edge computing systems at the forefront of innovation. We have first hand experience
+with complex business domains, designing for the most stringent operational environments and hope that these tools
+accelerate your path to solution ROI. 
