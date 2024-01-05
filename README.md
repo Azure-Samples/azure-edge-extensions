@@ -1,12 +1,14 @@
+---
+layout: home
+title: Home
+---
+
 # Azure Edge Extensions
 
-Azure Edge Extensions is a suite of software tools designed to help you take full advantage of the power of Azure's
+Azure Edge Extensions is a suite of sample software tools and solutions designed to help you take full advantage of the power of Azure's
 edge computing platforms. From notebook playgrounds, to CI/CD, to model transpilers, to production ready IaC, Azure
 Edge Extensions are all built with the goal of composition in mind. Fork and integrate the elements you need, and see
 your solutions come to life.
-
-Please see the [Azure Edge Extensions Project documentation](https://azure-samples.github.io/azure-edge-extensions/) to
-get started.
 
 ## Design Philosophy
 
@@ -32,13 +34,13 @@ Some examples are:
 * `azure-edge-extensions-polyglotnotebooks-aio` - a Polyglot Notebook for Azure IoT Operations
 * `azure-edge-extensions-devcontainer-aksee` - A Dev Container with AKS Edge Essentials preinstalled
 
-To see all the available Azure Edge Extensions, check out this [GitHub search for 'azure-edge-extensions'](https://github.com/search?q=azure-edge-extensions+in%3Aname&type=Repositories&org%3AAzureSamples).
+To see all the available Azure Edge Extensions please see the [project documentation at our GitHub Pages site](https://azure-samples.github.io/azure-edge-extensions/), or do a [GitHub search for 'azure-edge-extensions'](https://github.com/search?q=azure-edge-extensions+in%3Aname&type=Repositories&org%3AAzureSamples).
 
-# Contributing Tools to Azure Edge Extensions
+# Contributing Tools and Solutions to Azure Edge Extensions
 
 Contributing your own tool to the collection is easy:
 
-* File a [tool submission]() in this repository
+* File a [tool submission](https://github.com/Azure-Samples/azure-edge-extensions/issues/new?template=TOOL_SUBMISSION.md) in this repository
 * Work with us on repository naming in the comments of the tool submission
 * Create your repository
 * We'll add your tool to the Azure Edge Extensions index

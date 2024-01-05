@@ -21,7 +21,7 @@ pace of innovation in edge computing, and stay in step with Azure edge platform 
 
 ## The Team
 
-The Azure Edge Extensions team is staffed by Microsoft customer facing software engineers. Day in and day out we help
+The Azure Edge Extensions team is staffed by Microsoft customer facing software engineers and technical specialists. Day in and day out we help
 Microsoft customers build high scale edge computing systems at the forefront of innovation. We have first hand experience
-with complex business domains, designing for the most stringent operational environments and hope that these tools
-accelerate your path to solution ROI. 
+with complex business domains, designing for the most stringent operational environments and hope that these tools and solutions
+accelerate your path to ROI. 
