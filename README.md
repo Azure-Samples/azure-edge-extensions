@@ -1,8 +1,3 @@
----
-layout: home
-title: Home
----
-
 # Azure Edge Extensions
 
 Azure Edge Extensions is a suite of sample software tools and solutions designed to help you take full advantage of the power of Azure's
