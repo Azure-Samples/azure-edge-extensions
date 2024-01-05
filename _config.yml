@@ -46,7 +46,7 @@ aux_links:
 # their entries' file path in the `include:` list.
 #
 
- exclude:
+exclude:
   - README.md
 #   - .sass-cache/
 #   - .jekyll-cache/
