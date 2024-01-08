@@ -24,7 +24,7 @@ Azure Edge Extensions are all built with the same basic principles, echoing the 
 ## Tools and Solutions
 
 |  Area  |  Name (Repo Link)  |  Description  |
-|----|----|----|----|
+|----|----|----|
 |  Exploration  |  [Azure IoT Operations through Polyglot Notebooks](https://github.com/Azure-Samples/azure-edge-extensions-polyglotnotebook-aio)  |  Polyglot Notebooks that demonstrate how to use [Azure IoT Operations](https://learn.microsoft.com/en-us/azure/iot-operations/get-started/overview-iot-operations) using Codespaces  |
 |  Dev Loop  |  [K3D Debugging Dev Container for Azure IoT Operations](https://github.com/Azure-Samples/azure-edge-extensions-aio-dapr-net-devcontainer-k3d)  |  [Azure IoT Operations](https://learn.microsoft.com/en-us/azure/iot-operations/get-started/overview-iot-operations) debugging dev container with [k3d](https://k3d.io/) and [DAPR](https://dapr.io/)  |
 |  Dev Loop  |  [IoT Edge Object Model](https://github.com/Azure-Samples/azure-edge-extensions-iotedge-objectmodel-dotnet)  |  This library provides extensions methods of the [Azure IoT SDK](https://learn.microsoft.com/en-us/azure/iot/iot-sdks). The object model supplies a common API to view and edit deployment manifests regardless of whether they originate from an At-Scale or single device deployment  |
