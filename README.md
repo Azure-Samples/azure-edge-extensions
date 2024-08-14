@@ -6,9 +6,8 @@ Edge Extensions are all built with the goal of composition in mind. Fork and int
 your solutions come to life.
 
 > [!WARNING]  
-> Not all Azure Edge Extensions are compatible with all released versions of Azure Arc or Azure IoT Operations. Please review
-> [AIO release notes](https://github.com/Azure/azure-iot-operations/releases) and notes in each extension project to confirm
-> component compatibility. 
+> Not all Azure Edge Extensions are compatible with all released versions of Azure Arc or preview versions of Azure IoT Operations. Please review
+> [AIO release notes](https://github.com/Azure/azure-iot-operations/releases) and notes in each extension project to confirm component compatibility.
 
 ## Design Philosophy
 
